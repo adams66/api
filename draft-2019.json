@@ -1,4 +1,7 @@
-[
+{
+  
+  
+"draft":[
   {
     "Round": 1,
     "Round Number": 1,
@@ -1920,3 +1923,5 @@
     "College": "Colorado"
   }
 ]
+  
+}
